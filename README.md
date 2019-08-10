@@ -18,7 +18,7 @@ Features
 Example
 -------
 
-```c#
+```
 string selectedPath = "";
 FileChooser fileChooser = new FileChooser();
 fileChooser.Text = "Title";
